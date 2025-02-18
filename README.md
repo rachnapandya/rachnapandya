@@ -1,10 +1,1 @@
-- 👋 Hi, I’m @rachnapandya
-- 👀 I’m interested in 
-- 🌱 I’m currently learning android
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-rachnapandya/rachnapandya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Experienced Software Engineer with expertise in Backend Development and AI Operations. Skilled in Java, Spring Boot, and Python, with a focus on designing scalable microservices, real-time data analytics, and machine learning solutions. Proven track record in optimizing CI/CD pipelines, improving system performance, and implementing AI-driven solutions in logistics and security systems. Passionate about leveraging cloud technologies, including AWS and Kubernetes, to build robust, high-performance systems.
