@@ -7,7 +7,7 @@ I'm a Backend Developer with hands-on experience building microservices, impleme
 ---
 
 ## 🔭 Current Role
-**Software Engineer (Backend - AI Operations) @ Lululemon**  
+**Software Engineer (Backend - AI Operations)
 - Developing microservices for GenAI pipelines using Java & Spring Boot.  
 - Implementing ML algorithms (NumPy, Pandas, Scikit-Learn, TensorFlow) to optimize logistics analytics.  
 - Improving supply chain efficiency with real-time inventory insights and Retrieval Augmented Generation.  
